@@ -1,0 +1,5 @@
+/matlab/slprj/*
+*.asv
+*.slxc
+*.vcd
+/script/.ipynb*/
